@@ -28,6 +28,10 @@ h3 {
   color: orange;
 }
 
+p {
+  color: orange;
+}
+
 a {
   color: #ffb600
 }
@@ -48,4 +52,14 @@ a {
   float: right;
   color: orange;
   width: 80%;
+}
+
+.column {
+  width: 33%;
+  float: left;
+}
+
+img.column {
+  width: 100%;
+  height: auto;
 }
