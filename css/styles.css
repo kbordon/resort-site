@@ -13,6 +13,14 @@ h1 {
   width: 60%;
 }
 
+body p {
+  color: rgb(180,220,255)
+}
+
+body li {
+  color: rgb(200,230,255)
+}
+
 body {
   background-image: url(../img/bluebg.jpg);
   background-repeat: no-repeat;
@@ -21,6 +29,8 @@ body {
   background-size: cover;
   background-color: #313d96;
 }
+
+
 
 h3 {
   font-style: italic;
