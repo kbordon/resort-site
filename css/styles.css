@@ -3,6 +3,7 @@ h1 {
   font-size: 42px;
   font-family: sans-serif;
   font-weight: 900;
+  color: orange;
 }
 
 .main {
@@ -23,6 +24,8 @@ body {
 
 h3 {
   font-style: italic;
+  font-size: 27px;
+  color: orange;
 }
 
 a {
@@ -39,4 +42,10 @@ a {
 .pageinfo {
   font-size: 24px;
 
+}
+
+.imagepage {
+  float: right;
+  color: orange;
+  width: 80%;
 }
