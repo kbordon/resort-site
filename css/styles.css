@@ -12,6 +12,7 @@ body {
   background-repeat: no-repeat;
   background-position: top;
   background-attachment: fixed;
+  background-size: cover;
   background-color: #313d96;
 }
 
